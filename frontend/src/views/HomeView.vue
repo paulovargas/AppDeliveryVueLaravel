@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import api from "../api";
+import api from "../services/http";
 import DeliveryComponent from "../components/DeliveryComponent.vue";
 import CardsMenuInitComponent from "../components/CardsMenuInitComponent.vue";
 
